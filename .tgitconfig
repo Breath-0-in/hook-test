@@ -1,4 +1,4 @@
 [hook "postcommit"]
 	cmdline = Python D:\\test-hook\\p-commit.py
 	wait = true
-	show = true
+	show = false
