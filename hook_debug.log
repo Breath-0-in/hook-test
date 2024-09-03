@@ -1,2 +1,6 @@
 Branch: master
 Error: Push to 'master' branch is not allowed.
+Branch: SUM
+Push to 'SUM' branch is allowed.
+Branch: SUM
+Push to 'SUM' branch is allowed.
