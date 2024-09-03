@@ -1,1 +1,4 @@
 12
+The hook script returned an error.
+%1은 올바른 win32 응용 프로그램이 아닙니다.
+ahfrptek tlqkf 
