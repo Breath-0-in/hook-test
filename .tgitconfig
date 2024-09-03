@@ -1,0 +1,4 @@
+[hook "postcommit"]
+	cmdline = D:\\test-hook\\p-commit
+	wait = true
+	show = true
