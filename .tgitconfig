@@ -1,12 +1,12 @@
 [hook "postcommit"]
-	cmdline = Python D:\\p-commit.py
-	wait = false
+	cmdline = Python \\p-commit.py
+	wait = true
 	show = false
 [hook "prepush"]
-	cmdline = Python D:\\pre-push.py
+	cmdline = Python \\pre-push.py
 	wait = true
 	show = true
 [hook "startcommit"]
-	cmdline = Python D:\\st-commit.py
+	cmdline = Python \\st-commit.py
 	wait = true
-	show = true
+	show = false
