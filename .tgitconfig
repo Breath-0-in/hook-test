@@ -2,3 +2,7 @@
 	cmdline = Python D:\\p-commit.py
 	wait = false
 	show = false
+[hook "prepush"]
+	cmdline = Python D:\\pre-push.py
+	wait = true
+	show = true
